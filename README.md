@@ -1,9 +1,8 @@
-# SEPM Einzelphase
+# The Place to Beer
 
 ## Author
 
-Name: Tomosvary, Zsigmond\
-Matrikelnummer: e01526015
+Zsigmond Tömösvary
 
 ## Kurzanleitung
 
