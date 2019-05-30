@@ -1,0 +1,1483 @@
+20:28:26.386 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:28:26.501 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+20:28:27.379 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:28:28.925 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:28:29.943 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:28:37.547 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+20:28:37.547 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:28:37.714 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+20:28:37.714 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+20:28:37.714 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+20:28:37.715 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:28:38.230 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+20:28:38.248 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:29:16.105 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on New Product
+20:30:48.231 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+20:31:18.352 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:31:18.424 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+20:31:18.771 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:31:19.174 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:31:19.742 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:31:21.801 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+20:31:21.801 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:31:21.910 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+20:31:21.910 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+20:31:21.910 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+20:31:21.911 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:31:22.212 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+20:31:22.233 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:31:38.763 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on New Product
+20:33:08.230 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+20:33:46.349 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:33:46.412 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+20:33:46.736 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:33:47.107 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:33:47.707 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:33:59.937 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+20:33:59.938 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:34:00.039 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+20:34:00.039 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+20:34:00.039 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+20:34:00.040 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:34:00.318 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+20:34:00.337 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:34:14.079 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on New Product
+20:37:47.409 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+20:37:51.101 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:37:51.184 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+20:37:51.417 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:37:51.952 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:37:52.612 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:37:54.045 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+20:37:54.046 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:37:54.133 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+20:37:54.133 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+20:37:54.133 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+20:37:54.134 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:37:54.433 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+20:37:54.452 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:38:05.863 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on New Product
+20:38:05.882 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Add new Product to DB
+20:38:08.761 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+20:38:08.761 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+20:38:08.762 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:38:08.767 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+20:38:13.657 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Detailed View
+20:38:13.658 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:38:13.698 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Initialize DetailProductcontroller
+20:38:13.703 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:38:25.060 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Clicked on Back, go to Products
+20:38:25.060 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:38:25.088 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+20:38:25.088 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+20:38:25.088 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+20:38:25.088 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:38:25.094 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+20:38:25.097 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:38:32.795 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Update String Data
+20:38:32.796 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:38:36.084 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Update String Data
+20:38:36.084 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:38:37.308 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+20:38:37.309 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:38:37.329 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:38:37.964 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+20:38:37.964 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:38:38.006 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+20:38:38.006 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+20:38:38.006 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+20:38:38.006 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:38:38.015 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+20:38:38.017 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:39:54.829 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Detailed View
+20:39:54.829 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:39:54.844 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Initialize DetailProductcontroller
+20:39:54.847 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:40:03.317 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Clicked on Back, go to Products
+20:40:03.317 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:40:03.337 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+20:40:03.337 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+20:40:03.337 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+20:40:03.337 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:40:03.348 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+20:40:03.350 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:40:07.882 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+20:40:07.882 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:40:07.898 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:40:08.559 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+20:40:08.559 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:40:08.576 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+20:40:08.576 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+20:40:08.576 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Orders
+20:40:08.576 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:40:08.583 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+20:40:08.584 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:40:10.531 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+20:40:10.531 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+20:40:10.531 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:40:10.561 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+20:40:35.627 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Back, go to Mainscene
+20:40:35.628 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:40:35.644 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:40:36.945 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+20:40:36.946 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:40:36.964 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+20:40:36.964 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+20:40:36.965 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+20:40:36.965 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:40:36.969 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+20:40:36.970 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:40:51.526 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Update String Data
+20:40:51.526 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:40:54.951 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+20:40:54.951 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:40:54.966 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:40:55.889 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+20:40:55.890 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:40:55.905 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+20:40:55.905 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+20:40:55.905 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+20:40:55.906 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:40:55.909 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+20:40:55.910 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:40:57.123 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+20:40:57.124 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:40:57.139 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:40:57.603 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+20:40:57.604 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:40:57.612 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+20:40:57.612 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+20:40:57.612 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Orders
+20:40:57.612 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:40:57.615 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+20:40:57.615 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:40:59.631 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+20:40:59.632 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+20:40:59.632 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:40:59.637 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+20:41:26.010 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Back, go to Mainscene
+20:41:26.010 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:41:26.025 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:41:26.786 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Invoicemanagement
+20:41:26.786 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:41:26.802 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Initialize Invoicecontroller
+20:41:26.802 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Get Invoices
+20:41:26.802 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Invoices
+20:41:26.802 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:41:26.805 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Set Invoices
+20:41:26.805 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:41:28.375 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Clicked on Detailed View
+20:41:28.376 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:41:28.383 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Initialize DetailInvoicecontroller
+20:41:28.383 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Invoice Details
+20:41:28.385 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:41:29.596 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Get Products of Invoice
+20:41:29.596 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+20:41:29.596 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:41:29.601 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Products of Invoice
+20:41:36.738 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Clicked on Back, go to Mainscene
+20:41:36.738 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:41:36.756 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:43:47.233 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+20:43:47.234 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:43:47.246 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+20:43:47.247 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+20:43:47.247 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+20:43:47.247 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:43:47.260 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+20:43:47.261 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:43:50.397 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Detailed View
+20:43:50.398 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:43:50.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Initialize DetailProductcontroller
+20:43:50.414 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:43:51.561 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Clicked on Back, go to Products
+20:43:51.562 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:43:51.577 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+20:43:51.577 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+20:43:51.577 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+20:43:51.577 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:43:51.580 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+20:43:51.581 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:43:53.659 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Delete
+20:43:54.677 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Delete Product from DB
+20:43:54.678 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:43:54.684 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Referential integrity constraint violation: "CONSTRAINT_4: PUBLIC.ORDERPRODUCT FOREIGN KEY(PID) REFERENCES PUBLIC.PRODUCTS(PRODUCTID) (4)"; SQL statement:
+DELETE FROM products WHERE productid = ?  [23503-195]
+20:43:56.757 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+20:43:56.758 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:43:56.772 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:43:57.387 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+20:43:57.388 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:43:57.400 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+20:43:57.401 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+20:43:57.401 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+20:43:57.401 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:43:57.404 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+20:43:57.406 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:43:58.759 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+20:43:58.759 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:43:58.769 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:43:59.303 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Invoicemanagement
+20:43:59.304 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:43:59.312 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Initialize Invoicecontroller
+20:43:59.312 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Get Invoices
+20:43:59.312 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Invoices
+20:43:59.312 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:43:59.320 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Set Invoices
+20:43:59.321 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:44:00.867 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Clicked on Detailed View
+20:44:00.868 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:44:00.880 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Initialize DetailInvoicecontroller
+20:44:00.880 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Invoice Details
+20:44:00.883 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:44:01.891 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Get Products of Invoice
+20:44:01.892 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+20:44:01.892 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:44:01.896 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Products of Invoice
+20:44:20.366 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Clicked on Back, go to Mainscene
+20:44:20.366 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:44:20.382 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:44:38.428 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+20:44:38.428 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:44:38.439 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+20:44:38.439 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+20:44:38.439 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+20:44:38.439 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:44:38.442 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+20:44:38.443 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:44:41.994 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Detailed View
+20:44:45.796 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Delete
+20:44:47.728 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Add to Order
+20:44:51.290 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on New Product
+20:44:56.514 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+20:44:56.514 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+20:44:56.515 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+20:44:56.515 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:44:56.517 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+20:44:58.314 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+20:44:58.314 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:44:58.328 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:44:59.476 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+20:44:59.476 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:44:59.485 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+20:44:59.485 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+20:44:59.485 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Orders
+20:44:59.485 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:44:59.487 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+20:44:59.488 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:45:01.140 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+20:45:22.434 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Delete
+20:45:26.776 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Abrechnen
+20:45:42.341 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+20:46:26.501 [main] INFO  a.a.t.s.a.i.application.ConnectDb - Create Database
+20:46:33.517 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+20:46:33.572 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+20:46:33.877 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:46:34.249 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:46:34.806 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+20:46:38.470 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+20:46:38.470 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:46:38.526 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+20:46:38.526 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+20:46:38.526 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Orders
+20:46:38.527 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:46:38.795 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+20:46:38.801 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:46:41.827 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+20:46:41.827 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+20:46:41.828 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:46:41.836 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+20:46:44.511 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Delete
+20:46:46.527 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Delete Product from Order
+20:46:46.528 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:46:49.039 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Delete
+20:46:49.884 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Delete Product from Order
+20:46:49.884 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:46:53.166 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+20:46:53.166 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+20:46:53.166 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:46:53.171 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+20:46:54.654 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+20:46:54.654 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+20:46:54.654 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:46:54.661 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+20:46:55.657 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+20:46:55.658 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+20:46:55.658 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:46:55.661 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+20:46:57.009 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Back, go to Mainscene
+20:46:57.009 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:46:57.029 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:47:02.683 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+20:47:02.684 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:47:02.733 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+20:47:02.733 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+20:47:02.733 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+20:47:02.733 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:47:02.738 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+20:47:02.747 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:48:40.703 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+20:48:40.703 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:48:40.725 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:48:41.647 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+20:48:41.647 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:48:41.664 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+20:48:41.664 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+20:48:41.664 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Orders
+20:48:41.664 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:48:41.685 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+20:48:41.687 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:48:42.992 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+20:48:42.992 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+20:48:42.993 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:48:42.995 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+20:48:47.699 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Abrechnen
+20:48:51.175 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+20:48:51.175 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:48:51.177 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Bill Order
+20:48:51.178 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:48:52.448 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+20:48:52.448 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Orders
+20:48:52.448 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:48:52.451 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+20:48:54.003 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Back, go to Mainscene
+20:48:54.003 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:48:54.021 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:48:54.625 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Invoicemanagement
+20:48:54.625 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:48:54.637 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Initialize Invoicecontroller
+20:48:54.638 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Get Invoices
+20:48:54.638 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Invoices
+20:48:54.638 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:48:54.641 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Set Invoices
+20:48:54.642 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:49:06.789 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Clicked on Detailed View
+20:49:06.789 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:49:06.807 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Initialize DetailInvoicecontroller
+20:49:06.807 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Invoice Details
+20:49:06.811 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:49:12.807 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Clicked on Back, go to Mainscene
+20:49:12.807 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:49:12.825 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:51:10.911 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Invoicemanagement
+20:51:10.911 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:51:10.916 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Initialize Invoicecontroller
+20:51:10.916 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Get Invoices
+20:51:10.916 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Invoices
+20:51:10.916 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:51:10.937 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Set Invoices
+20:51:10.939 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:51:12.488 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Clicked on Detailed View
+20:51:12.488 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+20:51:12.503 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Initialize DetailInvoicecontroller
+20:51:12.504 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Invoice Details
+20:51:12.506 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+20:51:13.695 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Get Products of Invoice
+20:51:13.695 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+20:51:13.695 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+20:51:13.701 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Products of Invoice
+21:17:22.539 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Clicked on Back, go to Mainscene
+21:17:22.539 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+21:17:22.557 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+21:17:23.395 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+21:17:23.395 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+21:17:23.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+21:17:23.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+21:17:23.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+21:17:23.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+21:17:23.418 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+21:17:23.419 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+21:46:58.909 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+21:46:58.909 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+21:46:58.919 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+21:46:59.908 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Invoicemanagement
+21:46:59.908 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+21:46:59.915 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Initialize Invoicecontroller
+21:46:59.916 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Get Invoices
+21:46:59.916 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Invoices
+21:46:59.916 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+21:46:59.920 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Set Invoices
+21:46:59.921 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+21:47:01.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Clicked on Detailed View
+21:47:01.412 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+21:47:01.425 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Initialize DetailInvoicecontroller
+21:47:01.425 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Invoice Details
+21:47:01.427 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+21:51:26.976 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:53:42.053 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:53:42.124 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+21:53:42.392 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+21:53:42.835 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+21:53:43.469 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:53:44.777 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+21:53:44.777 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+21:53:44.866 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+21:53:44.866 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+21:53:44.866 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+21:53:44.867 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+21:53:45.154 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Column "nettoprice" not found [42122-195]
+21:53:45.154 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+21:53:45.176 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+21:53:50.265 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+21:53:50.266 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+21:53:50.292 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+21:53:51.020 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+21:53:51.021 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+21:53:51.038 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+21:53:51.039 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+21:53:51.039 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Orders
+21:53:51.039 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+21:53:51.047 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+21:53:51.049 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+21:53:52.962 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+21:53:52.962 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+21:53:52.962 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+21:53:52.971 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+21:53:52.971 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+21:53:53.649 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+21:53:53.649 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+21:53:53.649 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+21:53:53.659 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+21:53:53.659 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+21:53:53.784 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+21:53:53.785 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+21:53:53.785 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+21:53:53.808 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+21:53:53.809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+21:53:53.900 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+21:53:53.900 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+21:53:53.900 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+21:53:53.917 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+21:53:53.917 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+21:53:54.012 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+21:53:54.012 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+21:53:54.012 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+21:53:54.018 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+21:53:54.018 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+21:53:54.427 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Back, go to Mainscene
+21:53:54.427 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+21:53:54.450 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+21:54:01.172 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:54:05.486 [main] INFO  a.a.t.s.a.i.application.ConnectDb - Create Database
+21:54:18.289 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:54:18.369 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+21:54:18.615 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+21:54:19.025 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+21:54:19.546 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:54:21.693 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+21:54:21.693 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+21:54:21.784 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+21:54:21.784 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+21:54:21.784 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+21:54:21.785 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+21:54:22.065 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+21:54:22.084 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+21:56:34.717 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+21:58:52.459 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+21:58:52.547 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+21:58:52.874 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+21:58:53.284 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+21:58:53.879 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+21:58:55.204 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+21:58:55.204 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+21:58:55.319 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+21:58:55.319 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+21:58:55.320 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+21:58:55.321 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+21:58:55.698 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+21:58:55.719 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:02:20.216 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+22:02:20.216 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:02:20.241 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:02:20.822 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+22:02:20.822 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:02:20.841 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+22:02:20.841 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+22:02:20.841 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Orders
+22:02:20.841 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:02:20.852 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+22:02:20.854 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:02:22.376 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:02:22.376 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:02:22.376 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:02:22.386 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:02:25.376 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:02:25.376 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:02:25.377 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:02:25.382 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:02:25.996 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Back, go to Mainscene
+22:02:25.996 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:02:26.016 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:02:26.900 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Invoicemanagement
+22:02:26.900 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:02:26.918 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Initialize Invoicecontroller
+22:02:26.918 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Get Invoices
+22:02:26.918 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Invoices
+22:02:26.918 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:02:26.924 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Set Invoices
+22:02:26.926 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:02:28.296 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Clicked on Detailed View
+22:02:28.296 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:02:28.318 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Initialize DetailInvoicecontroller
+22:02:28.318 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Invoice Details
+22:02:28.324 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:02:29.433 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Get Products of Invoice
+22:02:29.433 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:02:29.433 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:02:29.451 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Products of Invoice
+22:02:30.878 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Clicked on Back, go to Mainscene
+22:02:30.878 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:02:30.902 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:02:31.772 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:02:31.772 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:02:31.790 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:02:31.790 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:02:31.790 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:02:31.790 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:02:31.793 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:02:31.794 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:02:33.658 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Detailed View
+22:02:33.658 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:02:33.676 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Initialize DetailProductcontroller
+22:02:33.679 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:02:37.768 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Clicked on Back, go to Products
+22:02:37.769 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:02:37.785 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:02:37.786 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:02:37.786 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:02:37.786 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:02:37.790 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:02:37.792 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:02:42.592 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:02:48.374 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:02:48.435 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+22:02:48.716 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:02:49.149 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:02:49.796 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:02:51.099 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:02:51.100 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:02:51.185 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:02:51.185 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:02:51.185 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:02:51.186 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:02:51.474 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:02:51.495 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:02:55.704 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:12:27.462 [main] INFO  a.a.t.s.a.i.application.ConnectDb - Create Database
+22:12:33.347 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:12:33.421 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+22:12:33.752 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:12:34.137 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:12:34.774 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:12:39.778 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:12:39.779 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:12:39.882 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:12:39.883 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:12:39.883 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:12:39.884 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:12:40.159 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:12:40.161 [JavaFX Application Thread] ERROR a.a.t.s.a.i.application.Changescene - Error by changing scene
+/home/zsigmond/Desktop/School/SEPM/01526015/target/classes/fxml/products.fxml
+
+22:13:28.984 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:13:35.440 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:13:35.517 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+22:13:35.787 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:13:36.221 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:13:36.918 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:13:38.440 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:13:38.440 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:13:38.528 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:13:38.528 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:13:38.528 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:13:38.529 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:13:38.837 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:13:38.855 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:13:49.649 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+22:13:49.649 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:13:49.691 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:13:50.402 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+22:13:50.402 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:13:50.426 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+22:13:50.426 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+22:13:50.426 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Orders
+22:13:50.426 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:13:50.443 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+22:13:50.445 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:13:51.713 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:13:51.713 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:13:51.713 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:13:51.725 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+22:13:51.725 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:13:53.923 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:13:53.923 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:13:53.923 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:13:53.930 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+22:13:53.931 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:13:54.377 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:13:54.378 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:13:54.378 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:13:54.387 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+22:13:54.387 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:13:54.513 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:13:54.514 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:13:54.514 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:13:54.523 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+22:13:54.523 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:13:54.633 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:13:54.634 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:13:54.634 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:13:54.641 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+22:13:54.641 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:13:55.528 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:13:55.528 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:13:55.528 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:13:55.537 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+22:13:55.537 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:13:55.673 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:13:55.674 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:13:55.674 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:13:55.681 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+22:13:55.681 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:13:55.809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:13:55.810 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:13:55.810 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:13:55.818 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+22:13:55.819 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:13:55.949 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:13:55.950 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:13:55.950 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:13:55.956 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+22:13:55.957 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:13:56.081 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:13:56.082 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:13:56.082 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:13:56.088 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+22:13:56.088 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:13:56.197 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:13:56.197 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:13:56.197 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:13:56.201 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+22:13:56.202 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:14:56.812 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Back, go to Mainscene
+22:14:56.813 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:14:56.838 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:14:58.430 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Invoicemanagement
+22:14:58.431 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:14:58.446 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Initialize Invoicecontroller
+22:14:58.446 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Get Invoices
+22:14:58.446 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Invoices
+22:14:58.446 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:14:58.468 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Set Invoices
+22:14:58.469 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:14:59.934 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Clicked on Detailed View
+22:14:59.934 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:14:59.953 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Initialize DetailInvoicecontroller
+22:14:59.953 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Invoice Details
+22:14:59.958 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:15:01.568 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Get Products of Invoice
+22:15:01.569 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:15:01.569 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:15:01.576 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+22:15:01.576 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Products of Invoice
+22:15:02.300 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Get Products of Invoice
+22:15:02.301 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:15:02.301 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:15:02.308 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+22:15:02.308 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Products of Invoice
+22:15:02.432 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Get Products of Invoice
+22:15:02.432 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:15:02.432 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:15:02.437 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Column "nettoprice" not found [42122-195]
+22:15:02.437 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Products of Invoice
+22:15:04.258 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Clicked on Back, go to Mainscene
+22:15:04.259 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:15:04.276 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:15:05.057 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:15:10.451 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:15:10.522 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+22:15:10.772 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:15:11.143 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:15:11.659 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:15:14.597 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+22:15:14.597 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:15:14.656 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+22:15:14.657 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+22:15:14.657 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Orders
+22:15:14.657 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:15:14.946 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+22:15:14.952 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:15:16.409 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:15:16.409 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:15:16.409 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:15:16.425 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:15:19.051 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Back, go to Mainscene
+22:15:19.051 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:15:19.077 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:15:20.105 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:15:20.105 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:15:20.167 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:15:20.167 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:15:20.167 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:15:20.167 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:15:20.173 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:15:20.184 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:15:42.419 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Update Double Data
+22:15:42.420 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:15:44.341 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+22:15:44.341 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:15:44.367 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:15:45.047 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:15:45.047 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:15:45.071 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:15:45.071 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:15:45.072 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:15:45.072 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:15:45.079 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:15:45.081 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:17:23.772 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Detailed View
+22:17:23.772 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:17:23.794 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Initialize DetailProductcontroller
+22:17:23.799 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:17:29.310 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Clicked on Back, go to Products
+22:17:29.311 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:17:29.322 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:17:29.322 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:17:29.322 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:17:29.323 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:17:29.330 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:17:29.331 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:17:33.656 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:25:03.820 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:25:03.921 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+22:25:04.229 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:25:04.680 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:25:05.345 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:25:06.826 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:25:06.826 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:25:06.926 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:25:06.926 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:25:06.926 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:25:06.926 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:25:07.187 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:25:07.209 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:25:21.312 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:25:21.312 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+22:25:21.313 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:25:21.328 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:25:23.692 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:25:23.693 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:25:23.693 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:25:23.700 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:29:00.129 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:29:00.129 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+22:29:00.130 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:29:00.135 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:29:01.329 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:29:01.329 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:29:01.329 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:29:01.345 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:29:01.961 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:29:01.961 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+22:29:01.961 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:29:01.967 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:29:02.389 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:29:02.389 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:29:02.389 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:29:02.398 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:29:19.347 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+22:29:19.347 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:29:19.367 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:29:20.011 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:29:20.011 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:29:20.033 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:29:20.033 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:29:20.033 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:29:20.033 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:29:20.037 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:29:20.040 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:30:21.834 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:30:21.834 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+22:30:21.834 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:30:21.854 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:30:46.200 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:30:46.200 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:30:46.201 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:30:46.208 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:30:57.896 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:30:57.897 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+22:30:57.897 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:30:57.900 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:31:00.740 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:31:00.741 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+22:31:00.741 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:31:00.745 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:31:04.910 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:31:04.910 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:31:04.910 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:31:04.913 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:31:08.816 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:31:08.817 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+22:31:08.817 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:31:08.821 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:31:10.424 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:31:10.424 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+22:31:10.425 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:31:10.429 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:31:12.352 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:31:12.353 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+22:31:12.353 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:31:12.357 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:31:14.036 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:31:14.037 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+22:31:14.037 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:31:14.040 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:31:16.098 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:31:16.098 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+22:31:16.098 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:31:16.101 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:31:17.808 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:31:17.808 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+22:31:17.809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:31:17.812 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:39:12.432 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:39:19.102 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:39:19.182 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+22:39:19.436 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:39:19.832 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:39:20.429 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:39:22.446 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:39:22.447 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:39:22.532 [JavaFX Application Thread] ERROR a.a.t.s.a.i.application.Changescene - Error by changing sceneError resolving onAction='#searchProduct', either the event handler is not in the Namespace or there is an error in the script.
+/home/zsigmond/Desktop/School/SEPM/01526015/target/classes/fxml/products.fxml:58
+
+22:39:41.925 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:39:45.188 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:39:45.300 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+22:39:45.585 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:39:45.969 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:39:46.538 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:39:50.203 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:39:50.203 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:39:50.313 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:39:50.314 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:39:50.314 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:39:50.315 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:39:50.582 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:39:50.602 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:40:37.773 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on New Product
+22:40:48.191 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:46:17.138 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:46:17.218 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+22:46:17.512 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:46:17.975 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:46:18.511 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:46:19.629 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:46:19.630 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:46:19.727 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:46:19.727 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:46:19.727 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:46:19.728 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:46:19.993 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:46:20.013 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:46:49.936 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on New Product
+22:46:49.954 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Add new Product to DB
+22:46:49.955 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:46:51.888 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:46:51.888 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:46:51.888 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:46:51.893 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:47:04.093 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Detailed View
+22:47:04.094 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:47:04.127 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Initialize DetailProductcontroller
+22:47:04.132 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:47:18.868 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Clicked on Add to Order
+22:47:21.100 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Check if there is an Order with this tablenumber
+22:47:21.100 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:47:21.106 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Adding new Order to DB
+22:47:21.106 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:47:22.321 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Check if there is an Order with this tablenumber
+22:47:22.321 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:47:22.324 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Add Product to Order
+22:47:22.325 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:47:23.923 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:47:23.946 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+22:47:23.947 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+22:47:23.947 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Orders
+22:47:23.947 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:47:23.958 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+22:47:23.961 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:47:26.422 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:47:26.422 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:47:26.422 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:47:26.428 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:47:30.488 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:47:30.488 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:47:30.488 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:47:30.512 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:47:32.096 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:47:32.097 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:47:32.097 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:47:32.103 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:47:33.664 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:47:33.664 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:47:33.664 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:47:33.668 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:47:44.142 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Abrechnen
+22:47:47.473 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:47:47.473 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:47:47.489 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Bill Order
+22:47:47.489 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:47:48.448 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+22:47:48.448 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Orders
+22:47:48.448 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:47:48.450 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+22:47:50.808 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Back, go to Mainscene
+22:47:50.809 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:47:50.829 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:47:51.802 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Invoicemanagement
+22:47:51.803 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:47:51.819 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Initialize Invoicecontroller
+22:47:51.819 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Get Invoices
+22:47:51.819 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Invoices
+22:47:51.819 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:47:51.823 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Set Invoices
+22:47:51.824 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:48:01.858 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Clicked on Detailed View
+22:48:01.858 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:48:01.872 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Initialize DetailInvoicecontroller
+22:48:01.873 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Invoice Details
+22:48:01.874 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:48:03.174 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Get Products of Invoice
+22:48:03.175 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:48:03.175 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:48:03.179 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Products of Invoice
+22:48:24.189 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Clicked on Back, go to Mainscene
+22:48:24.189 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:48:24.206 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:48:27.300 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Invoicemanagement
+22:48:27.301 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:48:27.308 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Initialize Invoicecontroller
+22:48:27.309 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Get Invoices
+22:48:27.309 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Invoices
+22:48:27.309 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:48:27.332 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Set Invoices
+22:48:27.332 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:48:29.383 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Clicked on Detailed View
+22:48:29.383 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:48:29.398 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Initialize DetailInvoicecontroller
+22:48:29.398 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Invoice Details
+22:48:29.400 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:48:31.301 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Clicked on Back, go to Mainscene
+22:48:31.301 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:48:31.319 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:48:32.663 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+22:48:32.663 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:48:32.676 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+22:48:32.676 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+22:48:32.676 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Orders
+22:48:32.676 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:48:32.678 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+22:48:32.679 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:48:34.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+22:48:34.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+22:48:34.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:48:34.416 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+22:48:35.037 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Back, go to Mainscene
+22:48:35.037 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:48:35.056 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:48:35.677 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:48:35.677 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:48:35.685 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:48:35.685 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:48:35.685 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:48:35.685 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:48:35.689 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:48:35.690 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:48:43.309 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Delete
+22:48:44.966 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Delete Product from DB
+22:48:44.967 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:48:44.979 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Referential integrity constraint violation: "CONSTRAINT_4: PUBLIC.ORDERPRODUCT FOREIGN KEY(PID) REFERENCES PUBLIC.PRODUCTS(PRODUCTID) (17)"; SQL statement:
+DELETE FROM products WHERE productid = ?  [23503-195]
+22:49:12.547 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Delete
+22:49:13.665 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Delete Product from DB
+22:49:13.665 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:49:13.668 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Referential integrity constraint violation: "CONSTRAINT_4: PUBLIC.ORDERPRODUCT FOREIGN KEY(PID) REFERENCES PUBLIC.PRODUCTS(PRODUCTID) (17)"; SQL statement:
+DELETE FROM products WHERE productid = ?  [23503-195]
+22:49:18.029 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+22:49:18.030 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:49:18.048 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:49:18.595 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:49:18.596 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:49:18.611 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:49:18.611 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:49:18.611 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:49:18.611 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:49:18.615 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:49:18.617 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:49:49.508 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+22:49:49.508 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:49:49.521 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:50:25.424 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:50:25.425 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:50:25.431 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:50:25.431 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:50:25.431 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:50:25.431 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:50:25.451 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:50:25.452 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:50:30.272 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Delete
+22:50:31.127 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Delete Product from DB
+22:50:31.127 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:50:31.130 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Referential integrity constraint violation: "CONSTRAINT_4: PUBLIC.ORDERPRODUCT FOREIGN KEY(PID) REFERENCES PUBLIC.PRODUCTS(PRODUCTID) (7)"; SQL statement:
+DELETE FROM products WHERE productid = ?  [23503-195]
+22:56:52.187 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+22:56:58.441 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+22:56:58.538 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+22:56:58.841 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:56:59.285 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:56:59.960 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+22:57:01.394 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:57:01.394 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:57:01.502 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:57:01.503 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:57:01.503 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:57:01.504 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:57:01.784 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:57:01.803 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:57:07.739 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Delete
+22:57:09.164 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Delete Product from DB
+22:57:09.165 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:57:09.184 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Referential integrity constraint violation: "CONSTRAINT_4: PUBLIC.ORDERPRODUCT FOREIGN KEY(PID) REFERENCES PUBLIC.PRODUCTS(PRODUCTID) (17)"; SQL statement:
+DELETE FROM products WHERE productid = ?  [23503-195]
+22:57:15.561 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:17.271 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:17.563 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:17.709 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:18.027 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:18.193 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:18.587 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:18.875 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:19.056 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:19.203 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:19.363 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:19.525 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:19.681 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:19.844 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:19.999 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:20.153 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:20.311 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:20.469 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:20.655 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:20.881 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:21.093 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:21.291 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:21.507 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:21.755 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:22.007 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:32.679 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+22:57:32.680 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:57:32.705 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:57:33.369 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:57:33.370 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:57:33.392 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:57:33.392 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:57:33.392 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:57:33.393 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:57:33.397 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:57:33.399 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:57:36.644 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:57:58.680 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+22:57:58.680 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:57:58.703 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:57:59.552 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:57:59.552 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:57:59.575 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:57:59.575 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:57:59.575 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:57:59.576 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:57:59.587 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:57:59.588 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:58:03.492 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:58:05.659 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:58:13.312 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:58:13.312 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:58:13.313 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:58:13.323 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:58:15.191 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:58:15.702 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:58:15.872 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:58:15.998 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:58:16.146 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:58:16.292 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:58:16.448 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:58:16.594 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:58:16.739 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:58:20.402 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+22:58:20.402 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:58:20.419 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:58:21.124 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:58:21.124 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:58:21.142 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:58:21.143 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:58:21.143 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:58:21.143 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:58:21.153 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:58:21.154 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:58:22.122 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:58:26.056 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+22:58:26.056 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:58:26.077 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:58:31.126 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+22:58:31.127 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+22:58:31.143 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+22:58:31.143 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:58:31.143 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:58:31.143 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:58:31.147 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:58:31.148 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+22:59:23.915 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:59:27.571 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:59:27.572 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:59:27.572 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:59:27.578 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+22:59:31.853 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:59:34.243 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+22:59:34.717 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+22:59:34.717 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+22:59:34.717 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+22:59:34.734 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:00:13.161 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+23:00:14.185 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+23:00:14.617 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+23:00:15.303 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+23:00:15.425 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+23:00:15.567 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+23:00:22.511 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Delete
+23:00:23.548 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Delete Product from DB
+23:00:23.548 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:00:23.568 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Referential integrity constraint violation: "CONSTRAINT_4: PUBLIC.ORDERPRODUCT FOREIGN KEY(PID) REFERENCES PUBLIC.PRODUCTS(PRODUCTID) (17)"; SQL statement:
+DELETE FROM products WHERE productid = ?  [23503-195]
+23:00:25.553 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:00:25.554 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:00:25.554 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:00:25.560 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:00:28.049 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Delete
+23:00:29.077 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Delete Product from DB
+23:00:29.077 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:00:29.079 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Referential integrity constraint violation: "CONSTRAINT_4: PUBLIC.ORDERPRODUCT FOREIGN KEY(PID) REFERENCES PUBLIC.PRODUCTS(PRODUCTID) (17)"; SQL statement:
+DELETE FROM products WHERE productid = ?  [23503-195]
+23:00:32.643 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+23:06:04.933 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:06:11.246 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:06:11.317 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+23:06:11.626 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:06:12.037 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:06:12.600 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:06:14.892 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+23:06:14.892 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:06:14.989 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+23:06:14.989 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:06:14.989 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:06:14.990 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:06:15.306 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:06:15.326 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:06:33.156 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Delete
+23:06:34.732 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Delete Product from DB
+23:06:34.732 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:06:34.751 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Referential integrity constraint violation: "CONSTRAINT_4: PUBLIC.ORDERPRODUCT FOREIGN KEY(PID) REFERENCES PUBLIC.PRODUCTS(PRODUCTID) (17)"; SQL statement:
+DELETE FROM products WHERE productid = ?  [23503-195]
+23:13:48.207 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:13:55.094 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:13:55.155 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+23:13:55.471 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:13:55.932 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:13:56.667 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:13:58.062 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+23:13:58.062 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:13:58.158 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+23:13:58.159 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:13:58.159 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:13:58.159 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:13:58.477 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:13:58.494 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:14:09.412 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+23:14:09.412 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+23:14:09.414 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:14:09.431 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:14:14.161 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+23:14:14.162 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+23:14:14.162 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:14:14.169 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:15:12.731 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:15:18.417 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:15:18.489 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+23:15:18.790 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:15:19.263 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:15:19.814 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:15:21.404 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+23:15:21.405 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:15:21.491 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+23:15:21.491 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:15:21.491 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:15:21.491 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:15:21.799 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:15:21.817 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:15:30.147 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+23:15:30.147 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+23:15:30.149 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:15:30.169 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:16:56.321 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:31:29.460 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:31:29.528 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+23:31:29.820 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:31:30.236 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:31:30.897 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:31:32.184 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+23:31:32.184 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:31:32.291 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+23:31:32.291 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:31:32.291 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:31:32.292 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:31:32.427 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-195]
+23:31:32.427 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:31:32.445 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:31:36.732 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+23:31:36.732 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+23:31:36.733 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:31:36.733 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:31:36.743 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-195]
+23:31:36.743 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:31:37.100 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:31:37.101 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:31:37.101 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:31:37.114 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-195]
+23:31:37.114 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:31:37.530 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:31:37.530 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:31:37.531 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:31:37.540 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-195]
+23:31:37.540 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:31:37.686 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:31:37.687 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:31:37.687 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:31:37.697 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-195]
+23:31:37.697 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:31:37.806 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:31:37.807 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:31:37.807 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:31:37.815 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-195]
+23:31:37.815 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:31:37.942 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:31:37.942 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:31:37.943 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:31:37.952 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-195]
+23:31:37.952 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:31:38.074 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:31:38.075 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:31:38.075 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:31:38.086 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-195]
+23:31:38.087 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:31:38.210 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:31:38.211 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:31:38.211 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:31:38.220 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-195]
+23:31:38.220 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:31:40.842 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+23:31:40.843 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:31:40.871 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:31:41.604 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+23:31:41.605 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:31:41.622 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+23:31:41.623 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+23:31:41.623 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Orders
+23:31:41.623 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:31:41.630 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Error:Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-195]
+23:31:41.630 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+23:31:41.631 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:31:43.062 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Back, go to Mainscene
+23:31:43.062 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:31:43.084 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:31:43.918 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:31:55.283 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:31:55.351 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+23:31:55.644 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:31:55.976 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:31:56.428 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:31:59.143 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+23:31:59.143 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:31:59.244 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+23:31:59.244 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:31:59.244 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:31:59.245 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:31:59.546 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:31:59.564 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:32:03.328 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Delete
+23:32:04.735 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Delete Product from DB
+23:32:04.735 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:32:04.762 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Referential integrity constraint violation: "CONSTRAINT_4: PUBLIC.ORDERPRODUCT FOREIGN KEY(PID) REFERENCES PUBLIC.PRODUCTS(PRODUCTID) (17)"; SQL statement:
+DELETE FROM products WHERE productid = ?  [23503-195]
+23:32:06.758 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+23:32:06.758 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:32:06.778 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:32:07.395 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+23:32:07.395 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:32:07.416 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+23:32:07.416 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:32:07.416 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:32:07.416 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:32:07.423 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:32:07.425 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:32:14.859 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+23:32:14.860 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+23:32:14.861 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:32:14.869 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:32:20.516 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+23:32:20.517 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Search Product in DB
+23:32:20.517 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:32:20.522 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:32:21.500 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:32:21.500 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:32:21.501 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:32:21.506 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:33:02.647 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:33:08.612 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:33:08.672 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+23:33:08.973 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:33:09.371 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:33:09.915 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:33:11.313 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+23:33:11.313 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:33:11.431 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+23:33:11.431 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:33:11.431 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:33:11.432 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:33:11.748 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:33:11.764 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:33:15.615 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Delete
+23:33:17.136 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Delete Product from DB
+23:33:17.136 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:33:17.150 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Referential integrity constraint violation: "CONSTRAINT_4: PUBLIC.ORDERPRODUCT FOREIGN KEY(PID) REFERENCES PUBLIC.PRODUCTS(PRODUCTID) (17)"; SQL statement:
+DELETE FROM products WHERE productid = ?  [23503-195]
+23:33:50.070 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:33:55.571 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:33:55.630 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+23:33:55.910 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:33:56.366 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:33:57.127 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:33:58.562 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+23:33:58.562 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:33:58.654 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+23:33:58.655 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:33:58.655 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:33:58.656 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:33:58.978 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:33:58.996 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:34:02.389 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Delete
+23:34:03.510 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Delete Product from DB
+23:34:03.511 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:34:03.532 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Referential integrity constraint violation: "CONSTRAINT_4: PUBLIC.ORDERPRODUCT FOREIGN KEY(PID) REFERENCES PUBLIC.PRODUCTS(PRODUCTID) (17)"; SQL statement:
+DELETE FROM products WHERE productid = ?  [23503-195]
+23:34:06.910 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+23:34:06.911 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:34:06.932 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:34:07.610 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+23:34:07.610 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:34:07.630 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+23:34:07.630 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:34:07.631 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:34:07.631 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:34:07.637 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:34:07.639 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:34:30.374 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:36:42.146 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:36:42.222 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+23:36:42.503 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:36:42.949 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:36:43.554 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:36:45.136 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+23:36:45.136 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:36:45.194 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+23:36:45.194 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+23:36:45.194 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Orders
+23:36:45.195 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:36:45.501 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+23:36:45.505 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:36:48.218 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+23:36:48.218 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+23:36:48.218 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:36:48.227 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+23:36:50.365 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+23:36:50.366 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+23:36:50.366 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:36:50.368 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+23:36:51.788 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+23:36:51.788 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+23:36:51.788 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:36:51.792 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+23:36:53.200 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+23:36:53.201 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+23:36:53.201 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:36:53.231 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+23:36:54.618 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+23:36:54.618 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+23:36:54.618 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:36:54.624 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+23:36:56.010 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+23:36:56.010 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+23:36:56.010 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:36:56.015 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+23:36:57.850 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Back, go to Mainscene
+23:36:57.850 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:36:57.875 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:36:58.824 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Invoicemanagement
+23:36:58.824 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:36:58.844 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Initialize Invoicecontroller
+23:36:58.845 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Get Invoices
+23:36:58.845 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Invoices
+23:36:58.845 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:36:58.851 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Set Invoices
+23:36:58.853 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:37:01.521 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Clicked on Detailed View
+23:37:01.522 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:37:01.563 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Initialize DetailInvoicecontroller
+23:37:01.563 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Invoice Details
+23:37:01.573 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:37:03.414 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Get Products of Invoice
+23:37:03.414 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.InvoiceDB - Display Products of Invoice
+23:37:03.415 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:37:03.420 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Products of Invoice
+23:37:11.796 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Clicked on Back, go to Mainscene
+23:37:11.796 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:37:11.817 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:37:17.158 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+23:37:17.158 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:37:17.198 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+23:37:17.198 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:37:17.198 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:37:17.198 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:37:17.205 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:37:17.215 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:37:22.832 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Delete
+23:37:24.206 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Delete Product from DB
+23:37:24.206 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:37:24.234 [JavaFX Application Thread] ERROR a.a.t.s.a.i.restaurant.DAO.ProductDB - Error:Referential integrity constraint violation: "CONSTRAINT_4: PUBLIC.ORDERPRODUCT FOREIGN KEY(PID) REFERENCES PUBLIC.PRODUCTS(PRODUCTID) (17)"; SQL statement:
+DELETE FROM products WHERE productid = ?  [23503-195]
+23:37:25.682 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+23:37:25.683 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:37:25.701 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:37:26.428 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+23:37:26.428 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:37:26.449 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+23:37:26.449 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+23:37:26.449 [JavaFX Application Thread] INFO  a.a.t.s.a.i.restaurant.DAO.ProductDB - Display Products
+23:37:26.449 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+23:37:26.454 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+23:37:26.456 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:37:45.877 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated
+23:42:41.172 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+23:42:41.267 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+23:42:41.606 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+23:42:42.149 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+23:42:42.771 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+23:42:44.369 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated

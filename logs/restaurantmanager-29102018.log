@@ -1,0 +1,785 @@
+10:55:26.225 [at.ac.tuwien.sepm.assignment.individual.application.MainApplication.main()] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+10:55:26.583 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+10:55:26.737 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+10:55:27.007 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+10:55:27.088 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Creating connection
+10:55:27.407 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Connection set!
+10:55:27.668 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+10:55:50.558 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+10:55:50.559 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+10:55:50.709 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+10:55:50.712 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+10:55:50.712 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+10:55:50.712 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+10:55:50.729 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+10:55:50.749 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+10:55:50.750 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+10:55:50.763 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+10:56:27.184 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on New Product
+10:56:27.202 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Add new Product to DB
+10:56:27.203 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+10:56:27.205 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+10:56:29.551 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+10:56:29.552 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+10:56:29.552 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+10:56:29.552 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+10:56:29.556 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+10:56:29.556 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+10:56:51.082 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Update Product
+10:56:51.082 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Check if Product is on Order
+10:56:51.082 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+10:56:51.091 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+10:56:51.092 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+10:56:51.092 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Update Product
+10:56:51.092 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+10:56:51.093 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+10:56:51.096 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+10:56:52.455 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+10:56:52.455 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+10:56:52.455 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+10:56:52.455 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+10:56:52.458 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+10:56:52.459 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+10:57:44.523 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Detailed View
+10:57:44.523 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+10:57:44.568 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Initialize DetailProductcontroller
+10:57:44.575 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+10:57:51.593 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Clicked on Back, go to Products
+10:57:51.593 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+10:57:51.635 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+10:57:51.636 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+10:57:51.636 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+10:57:51.636 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+10:57:51.636 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+10:57:51.639 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+10:57:51.639 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+10:57:51.641 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+10:58:14.153 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on New Product
+10:58:33.935 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Update Product
+10:58:33.936 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Check if Product is on Order
+10:58:33.936 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+10:58:33.936 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+10:58:33.937 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+10:58:33.937 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Update Product
+10:58:33.937 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+10:58:33.938 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+10:58:33.939 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+10:58:35.481 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+10:58:35.482 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+10:58:35.482 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+10:58:35.482 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+10:58:35.485 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+10:58:35.485 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:00:46.967 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Detailed View
+11:00:46.967 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:00:46.996 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Initialize DetailProductcontroller
+11:00:46.999 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:01:27.008 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Check if Product is on Order
+11:01:27.008 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:01:27.008 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:02:55.371 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:02:55.425 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+11:02:55.426 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+11:02:55.426 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+11:02:55.426 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:02:55.426 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:02:55.429 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:02:55.429 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:02:55.431 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:03:01.841 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Detailed View
+11:03:01.842 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:03:01.880 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Initialize DetailProductcontroller
+11:03:01.885 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:03:07.926 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Check if Product is on Order
+11:03:07.926 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:03:07.927 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:03:07.928 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:03:07.928 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Update Product
+11:03:07.928 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:03:07.929 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:03:07.930 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:03:09.250 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:03:09.284 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+11:03:09.285 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+11:03:09.285 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+11:03:09.285 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:03:09.285 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:03:09.287 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:03:09.288 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:03:09.289 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:03:19.655 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Detailed View
+11:03:19.655 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:03:19.687 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Initialize DetailProductcontroller
+11:03:19.691 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:03:33.058 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Check if Product is on Order
+11:03:33.059 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:03:33.059 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:03:33.059 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:03:33.059 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Update Product
+11:03:33.059 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:03:33.060 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:03:33.061 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:03:34.384 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:03:34.417 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+11:03:34.417 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+11:03:34.417 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+11:03:34.417 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:03:34.417 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:03:34.419 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:03:34.419 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:03:34.421 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:03:47.550 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Detailed View
+11:03:47.550 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:03:47.573 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Initialize DetailProductcontroller
+11:03:47.577 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:03:55.675 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Check if Product is on Order
+11:03:55.676 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:03:55.676 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:03:55.676 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:03:55.676 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Update Product
+11:03:55.676 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:03:55.677 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:03:55.678 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:03:56.914 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:03:56.943 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+11:03:56.944 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+11:03:56.944 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+11:03:56.944 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:03:56.944 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:03:56.946 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:03:56.946 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:03:56.947 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:05:02.087 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Delete
+11:05:03.423 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Check if Product is on Order
+11:05:03.424 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:05:03.424 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:05:03.424 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:05:03.425 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Delete Product from DB
+11:05:03.425 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:05:03.425 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:05:03.426 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:05:39.724 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Delete
+11:06:13.626 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Detailed View
+11:06:13.627 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:06:13.648 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Initialize DetailProductcontroller
+11:06:13.650 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:06:15.120 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Clicked on Back, go to Products
+11:06:15.121 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:06:15.148 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+11:06:15.149 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+11:06:15.149 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+11:06:15.149 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:06:15.149 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:06:15.150 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:06:15.150 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:06:15.151 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:06:15.999 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+11:06:15.999 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:06:16.014 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:06:23.019 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+11:06:23.020 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:06:23.037 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+11:06:23.038 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+11:06:23.038 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Orders
+11:06:23.038 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:06:23.038 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:06:23.040 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:06:23.041 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+11:06:23.041 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:06:44.977 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+11:06:44.977 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Products of Invoice
+11:06:44.977 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:06:44.979 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:06:44.981 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:06:44.981 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+11:06:54.400 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Add Product, go to Productscene
+11:06:54.400 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:06:54.423 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+11:06:54.423 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+11:06:54.423 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+11:06:54.423 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:06:54.423 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:06:54.424 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:06:54.424 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:06:54.425 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:06:59.021 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Add to Order
+11:07:57.670 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Check if there is an Order with this tablenumber
+11:07:57.670 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:07:57.671 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:07:57.671 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:07:57.671 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Adding new Order to DB
+11:07:57.671 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:07:57.672 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:07:57.673 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Check if there is an Order with this tablenumber
+11:07:57.674 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:07:57.674 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:07:57.675 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Add Product to Order
+11:07:57.675 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:07:57.675 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:07:57.679 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:08:01.624 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:08:01.637 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+11:08:01.637 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+11:08:01.637 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Orders
+11:08:01.637 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:08:01.637 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:08:01.638 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:08:01.638 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+11:08:01.641 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:08:09.141 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Back, go to Mainscene
+11:08:09.142 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:08:09.151 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:08:10.351 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+11:08:10.351 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:08:10.367 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+11:08:10.368 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+11:08:10.368 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+11:08:10.368 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:08:10.368 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:08:10.369 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:08:10.369 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:08:10.370 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:08:15.317 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+11:08:15.317 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:08:15.327 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:08:16.397 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+11:08:16.398 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:08:16.410 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+11:08:16.410 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+11:08:16.410 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Orders
+11:08:16.410 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:08:16.410 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:08:16.410 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:08:16.410 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+11:08:16.411 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:08:22.523 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Add Product, go to Productscene
+11:08:22.523 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:08:22.541 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+11:08:22.541 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+11:08:22.541 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+11:08:22.541 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:08:22.541 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:08:22.542 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:08:22.542 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:08:22.543 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:08:28.902 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Add to Order
+11:17:00.281 [at.ac.tuwien.sepm.assignment.individual.application.MainApplication.main()] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+11:17:00.803 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+11:17:00.937 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:17:01.237 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:17:01.317 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Creating connection
+11:17:01.632 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Connection set!
+11:17:01.915 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+11:17:12.297 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+11:17:12.297 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:17:12.368 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+11:17:12.368 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+11:17:12.369 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Orders
+11:17:12.369 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:17:12.384 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:17:12.398 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:17:12.399 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+11:17:12.404 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:17:14.426 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Add Product, go to Productscene
+11:17:14.426 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:17:14.507 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+11:17:14.510 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+11:17:14.510 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+11:17:14.510 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:17:14.510 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:17:14.515 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:17:14.516 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:17:14.529 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:17:21.283 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Add to Order
+11:17:28.490 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Check if there is an Order with this tablenumber
+11:17:28.491 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:17:28.495 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:17:28.496 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:17:28.497 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Adding new Order to DB
+11:17:28.497 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:17:28.516 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:17:28.525 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Check if there is an Order with this tablenumber
+11:17:28.525 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:17:28.528 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:17:28.530 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Add Product to Order
+11:17:28.530 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:17:28.530 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:17:28.531 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:17:30.261 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:17:30.288 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+11:17:30.289 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+11:17:30.289 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Orders
+11:17:30.289 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:17:30.289 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:17:30.291 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:17:30.291 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+11:17:30.297 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:17:34.438 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+11:17:34.438 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Products of Invoice
+11:17:34.438 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:17:34.441 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:17:34.442 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:17:34.443 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+11:17:43.782 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Add Product, go to Productscene
+11:17:43.782 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:17:43.829 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+11:17:43.829 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+11:17:43.829 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+11:17:43.829 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:17:43.829 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:17:43.832 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:17:43.832 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:17:43.837 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:17:46.295 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Add to Order
+11:17:55.735 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Check if there is an Order with this tablenumber
+11:17:55.735 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:17:55.735 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:17:55.736 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Add Product to Order
+11:17:55.736 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:17:55.736 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:17:55.738 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:17:56.658 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:17:56.678 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+11:17:56.679 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+11:17:56.683 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Orders
+11:17:56.683 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:17:56.683 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:17:56.684 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:17:56.684 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+11:17:56.695 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:17:58.693 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+11:17:58.693 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Products of Invoice
+11:17:58.693 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:17:58.694 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:17:58.695 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:17:58.696 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+11:18:08.449 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Bill
+11:18:20.090 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Products of Invoice
+11:18:20.090 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:18:20.091 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:18:20.091 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:18:20.103 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Bill Order
+11:18:20.104 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:18:20.105 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:18:20.107 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:18:20.108 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Delete constraints from orderproduct table
+11:18:20.108 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:18:20.108 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:18:20.110 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:18:22.658 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+11:18:22.658 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Orders
+11:18:22.658 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:18:22.658 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:18:22.659 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:18:22.660 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+11:18:27.085 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Back, go to Mainscene
+11:18:27.085 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:18:27.098 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:18:28.125 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Invoicemanagement
+11:18:28.125 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:18:28.138 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Initialize Invoicecontroller
+11:18:28.138 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Get Invoices
+11:18:28.138 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Invoices
+11:18:28.138 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:18:28.138 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:18:28.140 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:18:28.140 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Set Invoices
+11:18:28.141 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:18:36.331 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Clicked on Detailed View
+11:18:36.331 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:18:36.363 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Initialize DetailInvoicecontroller
+11:18:36.363 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Invoice Details
+11:18:36.368 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:23:55.886 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Clicked on Back, go to Mainscene
+11:23:55.886 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:23:55.902 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:26:46.850 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Invoicemanagement
+11:26:46.850 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:26:46.861 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Initialize Invoicecontroller
+11:26:46.861 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Get Invoices
+11:26:46.861 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Invoices
+11:26:46.861 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:26:46.861 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:26:46.862 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:26:46.862 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Set Invoices
+11:26:46.863 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:26:49.958 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Clicked on Detailed View
+11:26:49.959 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:26:49.987 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Initialize DetailInvoicecontroller
+11:26:49.987 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Invoice Details
+11:26:49.990 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:27:34.420 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Clicked on Back, go to Mainscene
+11:27:34.420 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:27:34.432 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:27:38.902 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Statisticmanagement
+11:27:59.500 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+11:27:59.500 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:27:59.529 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+11:27:59.529 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+11:27:59.529 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+11:27:59.529 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:27:59.529 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:27:59.531 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:27:59.531 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:27:59.532 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:28:03.161 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Add to Order
+11:28:13.326 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Check if there is an Order with this tablenumber
+11:28:13.326 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:28:13.326 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:28:13.327 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Add Product to Order
+11:28:13.327 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:28:13.327 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:28:13.331 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.DAO.InvoiceDAO - Error:Unique index or primary key violation: "PRIMARY_KEY_4 ON PUBLIC.ORDERPRODUCT(PID, IID) VALUES (4, 16, 11)"; SQL statement:
+INSERT INTO orderproduct(pid, iid) VALUES (?, ?) [23505-195]
+11:28:13.332 [JavaFX Application Thread] ERROR a.a.t.s.a.i.r.c.Productscontroller - Error:Failed to add product to order:Unique index or primary key violation: "PRIMARY_KEY_4 ON PUBLIC.ORDERPRODUCT(PID, IID) VALUES (4, 16, 11)"; SQL statement:
+INSERT INTO orderproduct(pid, iid) VALUES (?, ?) [23505-195]
+11:28:16.056 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+11:28:16.056 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:28:16.071 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:28:17.236 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+11:28:17.237 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:28:17.251 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+11:28:17.252 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+11:28:17.252 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Orders
+11:28:17.252 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:28:17.252 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:28:17.253 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:28:17.253 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+11:28:17.254 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:28:20.102 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+11:28:20.103 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Products of Invoice
+11:28:20.103 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:28:20.103 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:28:20.104 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:28:20.105 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+11:28:30.473 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+11:28:30.473 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Products of Invoice
+11:28:30.473 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:28:30.473 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:28:30.474 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:28:30.475 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+11:28:32.783 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+11:28:32.784 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Products of Invoice
+11:28:32.784 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:28:32.784 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:28:32.785 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:28:32.785 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+11:28:34.791 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+11:28:34.791 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Products of Invoice
+11:28:34.791 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:28:34.792 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:28:34.793 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:28:34.793 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+11:28:37.172 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+11:28:37.172 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Products of Invoice
+11:28:37.172 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:28:37.173 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:28:37.174 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:28:37.174 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+11:28:39.038 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+11:28:39.038 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Products of Invoice
+11:28:39.038 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:28:39.038 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:28:39.039 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:28:39.040 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+11:28:43.386 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Products od Orders
+11:28:43.387 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Products of Invoice
+11:28:43.387 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:28:43.387 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:28:43.388 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:28:43.388 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Products of Orders
+11:28:46.796 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Delete
+11:28:48.718 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Delete Product from Order
+11:28:48.719 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:28:48.720 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:29:00.275 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Delete
+11:29:22.276 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Bill
+11:29:26.172 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Products of Invoice
+11:29:26.172 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:29:26.172 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:29:26.173 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:29:26.174 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Bill Order
+11:29:26.174 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:29:26.175 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:29:26.176 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:29:26.176 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Delete constraints from orderproduct table
+11:29:26.176 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:29:26.176 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:29:26.176 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:29:27.635 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+11:29:27.635 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Orders
+11:29:27.636 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:29:27.636 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:29:27.636 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:29:27.636 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+11:29:29.429 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Back, go to Mainscene
+11:29:29.429 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:29:29.439 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:29:30.618 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Invoicemanagement
+11:29:30.618 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:29:30.630 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Initialize Invoicecontroller
+11:29:30.630 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Get Invoices
+11:29:30.630 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Invoices
+11:29:30.630 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:29:30.631 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:29:30.632 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:29:30.632 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Set Invoices
+11:29:30.633 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:29:33.082 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Clicked on Detailed View
+11:29:33.083 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:29:33.103 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Initialize DetailInvoicecontroller
+11:29:33.103 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Invoice Details
+11:29:33.105 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:29:40.453 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Clicked on Back, go to Mainscene
+11:29:40.454 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:29:40.465 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:29:51.345 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Invoicemanagement
+11:29:51.346 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:29:51.354 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Initialize Invoicecontroller
+11:29:51.355 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Get Invoices
+11:29:51.355 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Invoices
+11:29:51.355 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:29:51.355 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:29:51.356 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:29:51.356 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Set Invoices
+11:29:51.357 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:29:54.590 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Clicked on Detailed View
+11:29:54.591 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:29:54.614 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Initialize DetailInvoicecontroller
+11:29:54.615 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Invoice Details
+11:29:54.617 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:29:56.810 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Clicked on Back, go to Mainscene
+11:29:56.811 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:29:56.822 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:29:58.101 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+11:29:58.101 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:29:58.115 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+11:29:58.115 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+11:29:58.115 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Orders
+11:29:58.115 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:29:58.115 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:29:58.116 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:29:58.116 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+11:29:58.116 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:30:00.482 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Back, go to Mainscene
+11:30:00.482 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:30:00.489 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:30:02.217 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+11:30:02.217 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:30:02.241 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+11:30:02.241 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+11:30:02.241 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+11:30:02.241 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:30:02.241 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:30:02.243 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:30:02.243 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:30:02.250 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:30:06.816 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Back, go to Mainscene
+11:30:06.816 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:30:06.824 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:30:08.290 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Invoicemanagement
+11:30:08.290 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:30:08.296 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Initialize Invoicecontroller
+11:30:08.297 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Get Invoices
+11:30:08.297 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Invoices
+11:30:08.297 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:30:08.297 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:30:08.298 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:30:08.298 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Set Invoices
+11:30:08.298 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:30:10.282 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Clicked on Detailed View
+11:30:13.615 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Clicked on Detailed View
+11:30:13.615 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:30:13.636 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Initialize DetailInvoicecontroller
+11:30:13.636 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Invoice Details
+11:30:13.637 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:31:16.523 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Clicked on Back, go to Mainscene
+11:31:16.524 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:31:16.535 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:31:18.279 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+11:31:18.280 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:31:18.295 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+11:31:18.296 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+11:31:18.296 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Orders
+11:31:18.296 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:31:18.296 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:31:18.296 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:31:18.296 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+11:31:18.297 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:31:41.861 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Back, go to Mainscene
+11:31:41.861 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:31:41.870 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:31:44.474 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Tablecontroller
+11:31:44.474 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:31:44.488 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Initialize Tablecontroller
+11:31:44.488 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Get Orders
+11:31:44.488 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Orders
+11:31:44.488 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:31:44.488 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:31:44.489 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:31:44.489 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Set Orders
+11:31:44.489 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:32:55.018 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Tablecontroller - Clicked on Back, go to Mainscene
+11:32:55.019 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:32:55.032 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:32:56.931 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Open Invoicemanagement
+11:32:56.931 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:32:56.937 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Initialize Invoicecontroller
+11:32:56.938 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Get Invoices
+11:32:56.938 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Display Invoices
+11:32:56.938 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:32:56.938 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:32:56.939 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:32:56.939 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Set Invoices
+11:32:56.940 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:33:40.957 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Clicked on Detailed View
+11:33:45.921 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Invoicecontroller - Clicked on Detailed View
+11:33:45.921 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:33:45.931 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Initialize DetailInvoicecontroller
+11:33:45.931 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Set Invoice Details
+11:33:45.932 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:34:47.665 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailInvoicecontroller - Clicked on Back, go to Mainscene
+11:34:47.665 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:34:47.675 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:34:49.541 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Mainscenecontroller - Opening Productmanagement
+11:34:49.542 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:34:49.560 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+11:34:49.560 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+11:34:49.560 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+11:34:49.560 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:34:49.560 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:34:49.561 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:34:49.561 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:34:49.562 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:35:40.764 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+11:35:40.764 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Search Product in DB
+11:35:40.766 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:35:40.767 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:35:40.768 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:35:40.768 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:36:14.463 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+11:36:14.464 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Search Product in DB
+11:36:14.464 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:36:14.466 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:36:14.468 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:36:14.468 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:36:24.890 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+11:36:24.890 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Search Product in DB
+11:36:24.890 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:36:24.891 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:36:24.892 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:36:24.893 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:36:29.146 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Search Product
+11:36:29.146 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Search Product in DB
+11:36:29.147 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:36:29.147 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:36:29.148 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:36:29.149 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:36:36.557 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+11:36:36.557 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+11:36:36.557 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:36:36.557 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:36:36.558 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:36:36.558 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:38:19.034 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Detailed View
+11:38:19.034 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:38:19.068 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Initialize DetailProductcontroller
+11:38:19.071 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:38:31.149 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Check if Product is on Order
+11:38:31.150 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:38:31.151 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:38:33.658 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:38:33.684 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+11:38:33.684 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+11:38:33.684 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+11:38:33.684 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:38:33.684 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:38:33.685 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:38:33.685 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:38:33.686 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:38:38.803 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Detailed View
+11:38:38.803 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:38:38.827 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Initialize DetailProductcontroller
+11:38:38.829 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:38:45.098 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Check if Product is on Order
+11:38:45.099 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:38:45.100 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:38:45.100 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:38:45.100 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Update Product
+11:38:45.100 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:38:45.101 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:38:45.103 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:38:46.469 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:38:46.485 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+11:38:46.486 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+11:38:46.486 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+11:38:46.486 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:38:46.486 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:38:46.487 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:38:46.487 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:38:46.491 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:38:52.114 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Clicked on Detailed View
+11:38:52.114 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:38:52.135 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Initialize DetailProductcontroller
+11:38:52.138 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:39:03.563 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.DetailProductcontroller - Clicked on Delete
+11:39:05.530 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Check if Product is on Order
+11:39:05.530 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:39:05.530 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:39:05.531 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:39:05.531 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Delete Product from DB
+11:39:05.531 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:39:05.532 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:39:05.532 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:39:07.476 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:39:07.494 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Initializing Productscontroller
+11:39:07.494 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Get Products
+11:39:07.494 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Display Products
+11:39:07.494 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:39:07.494 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:39:07.495 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:39:07.495 [JavaFX Application Thread] INFO  a.a.t.s.a.i.r.c.Productscontroller - Set Products
+11:39:07.496 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:42:40.712 [Thread-3] INFO  a.a.t.s.a.i.application.ConnectDb - Closing connection
+11:43:11.513 [pool-1-thread-4] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Check if there is an Order with this tablenumber
+11:43:11.514 [pool-1-thread-2] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Check if Product is on Order
+11:43:11.514 [pool-1-thread-3] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Add new Product to DB
+11:43:11.513 [pool-1-thread-1] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Check if Product is on Order
+11:43:11.517 [pool-1-thread-4] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:43:11.517 [pool-1-thread-2] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:43:11.517 [pool-1-thread-3] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:43:11.518 [pool-1-thread-1] INFO  a.a.t.s.a.i.r.DAO.ProductDAO - Preparing statement
+11:43:11.528 [pool-1-thread-4] INFO  a.a.t.s.a.i.application.ConnectDb - Creating connection
+11:43:11.529 [pool-1-thread-3] INFO  a.a.t.s.a.i.application.ConnectDb - Creating connection
+11:43:11.529 [pool-1-thread-2] INFO  a.a.t.s.a.i.application.ConnectDb - Creating connection
+11:43:11.534 [pool-1-thread-1] INFO  a.a.t.s.a.i.application.ConnectDb - Creating connection
+11:43:11.846 [pool-1-thread-1] INFO  a.a.t.s.a.i.application.ConnectDb - Connection set!
+11:43:11.847 [pool-1-thread-2] INFO  a.a.t.s.a.i.application.ConnectDb - Connection set!
+11:43:11.847 [pool-1-thread-3] INFO  a.a.t.s.a.i.application.ConnectDb - Connection set!
+11:43:11.847 [pool-1-thread-4] INFO  a.a.t.s.a.i.application.ConnectDb - Connection set!
+11:43:11.863 [pool-1-thread-4] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:43:11.870 [pool-1-thread-2] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:43:11.870 [pool-1-thread-1] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:43:11.883 [pool-1-thread-3] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Executing the query
+11:43:11.889 [pool-1-thread-4] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Successful operation
+11:43:11.889 [pool-1-thread-4] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Adding new Order to DB
+11:43:11.889 [pool-1-thread-4] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:43:11.890 [pool-1-thread-4] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:43:11.898 [pool-1-thread-4] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Check if there is an Order with this tablenumber
+11:43:11.899 [pool-1-thread-2] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Successful operation
+11:43:11.899 [pool-1-thread-4] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:43:11.899 [pool-1-thread-2] DEBUG a.a.t.s.a.i.r.DAO.ProductDAO - Update Product
+11:43:11.899 [pool-1-thread-4] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:43:11.901 [pool-1-thread-4] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Add Product to Order
+11:43:11.901 [pool-1-thread-4] INFO  a.a.t.s.a.i.r.DAO.InvoiceDAO - Preparing statement
+11:43:11.901 [pool-1-thread-4] DEBUG a.a.t.s.a.i.r.DAO.InvoiceDAO - Executing the query
+11:43:11.907 [pool-1-thread-4] ERROR a.a.t.s.a.i.r.DAO.InvoiceDAO - Error:Referential integrity constraint violation: "CONSTRAINT_4: PUBLIC.ORDERPRODUCT FOREIGN KEY(PID) REFERENCES PUBLIC.PRODUCTS(PRODUCTID) (-5)"; SQL statement:
+INSERT INTO orderproduct(pid, iid) VALUES (?, ?) [23506-195]
+11:45:14.726 [at.ac.tuwien.sepm.assignment.individual.application.MainApplication.main()] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+11:45:15.038 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainApplication - Get Main Scene
+11:45:15.183 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.Changescene - Changing scene
+11:45:15.450 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+11:45:15.537 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Creating connection
+11:45:15.838 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Connection set!
+11:45:16.085 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+12:40:20.500 [Thread-3] INFO  a.a.t.s.a.i.application.ConnectDb - Closing connection

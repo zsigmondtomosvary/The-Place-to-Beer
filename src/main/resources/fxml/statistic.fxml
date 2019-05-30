@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.BarChart?>
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="542.0" prefWidth="674.0" xmlns="http://javafx.com/javafx/10.0.1" fx:controller="at.ac.tuwien.sepm.assignment.individual.restaurant.controller.Statisticcontroller" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="45.0" layoutY="43.0" text="Statistic">
+         <font>
+            <Font size="21.0" />
+         </font>
+      </Label>
+      <DatePicker fx:id="dpfrom" layoutX="37.0" layoutY="90.0" />
+      <DatePicker fx:id="dpto" layoutX="308.0" layoutY="90.0" />
+      <CheckBox fx:id="cbaf" layoutX="37.0" layoutY="137.0" mnemonicParsing="false" text="AF" />
+      <CheckBox fx:id="cbhg" layoutX="91.0" layoutY="137.0" mnemonicParsing="false" text="HG" />
+      <CheckBox fx:id="cbag" layoutX="153.0" layoutY="137.0" mnemonicParsing="false" text="AG" />
+      <CheckBox fx:id="cbvs" layoutX="211.0" layoutY="137.0" mnemonicParsing="false" text="VS" />
+      <CheckBox fx:id="cbhs" layoutX="276.0" layoutY="137.0" mnemonicParsing="false" text="HS" />
+      <CheckBox fx:id="cbd" layoutX="350.0" layoutY="137.0" mnemonicParsing="false" text="D" />
+      <CheckBox fx:id="cbmonday" layoutX="33.0" layoutY="175.0" mnemonicParsing="false" text="MO" />
+      <CheckBox fx:id="cbtuesday" layoutX="91.0" layoutY="175.0" mnemonicParsing="false" text="DI" />
+      <CheckBox fx:id="cbwednesday" layoutX="136.0" layoutY="175.0" mnemonicParsing="false" text="MI" />
+      <CheckBox fx:id="cbthursday" layoutX="196.0" layoutY="175.0" mnemonicParsing="false" text="DO" />
+      <CheckBox fx:id="cbfriday" layoutX="256.0" layoutY="175.0" mnemonicParsing="false" text="FR" />
+      <CheckBox fx:id="cbsaturday" layoutX="306.0" layoutY="175.0" mnemonicParsing="false" text="SA" />
+      <CheckBox fx:id="cbsunday" layoutX="367.0" layoutY="175.0" mnemonicParsing="false" text="SO" />
+      <LineChart fx:id="linechart" layoutX="4.0" layoutY="280.0" prefHeight="262.0" prefWidth="342.0">
+        <xAxis>
+          <CategoryAxis side="BOTTOM" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis side="LEFT" />
+        </yAxis>
+      </LineChart>
+      <BarChart fx:id="barchart" layoutX="347.0" layoutY="280.0" prefHeight="262.0" prefWidth="327.0">
+        <xAxis>
+          <CategoryAxis side="BOTTOM" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis side="LEFT" />
+        </yAxis>
+      </BarChart>
+      <Label layoutX="38.0" layoutY="240.0" text="UMSATZ" />
+      <Label layoutX="371.0" layoutY="240.0" text="UMSATZ/TAG" />
+   </children>
+</Pane>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.collections.FXCollections?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.StackPane?>
+
+<StackPane prefHeight="600.0" prefWidth="700.0" style="-fx-background-color: #115212;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="at.ac.tuwien.sepm.assignment.individual.restaurant.controller.Productscontroller">
+   <children>
+      <TableView fx:id="tblproduct" editable="true" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="346.0" prefWidth="700.0">
+        <columns>
+            <TableColumn fx:id="colname" prefWidth="99.0" text="Name" />
+            <TableColumn fx:id="coltext" prefWidth="110.0" text="Description" />
+            <TableColumn fx:id="colnetto" prefWidth="56.0" text="Netto" />
+            <TableColumn fx:id="colbrutto" prefWidth="75.0" text="Brutto" />
+            <TableColumn fx:id="coladd" editable="false" prefWidth="87.0" text="Added" />
+            <TableColumn fx:id="colcat" prefWidth="163.0" text="Category" />
+            <TableColumn fx:id="coltax" prefWidth="109.0" text="Tax" />
+        </columns>
+         <StackPane.margin>
+            <Insets top="260.0" />
+         </StackPane.margin>
+      </TableView>
+      <Label style="-fx-text-fill: #E9BC2B;" text="Produktname">
+         <StackPane.margin>
+            <Insets bottom="520.0" right="550.0" />
+         </StackPane.margin>
+      </Label>
+      <TextField fx:id="tfname" maxWidth="-Infinity" prefWidth="150.0">
+         <StackPane.margin>
+            <Insets bottom="470.0" right="500.0" />
+         </StackPane.margin>
+      </TextField>
+      <Label style="-fx-text-fill: #E9BC2B;" text="Descreption(optional)">
+         <StackPane.margin>
+            <Insets bottom="400.0" right="500.0" />
+         </StackPane.margin>
+      </Label>
+      <TextField fx:id="tftext" maxWidth="-Infinity" prefHeight="59.0" prefWidth="170.0">
+         <StackPane.margin>
+            <Insets bottom="300.0" right="480.0" />
+         </StackPane.margin>
+      </TextField>
+      <Label style="-fx-text-fill: #E9BC2B;" text="Nettoprice">
+         <StackPane.margin>
+            <Insets bottom="315.0" right="190.0" />
+         </StackPane.margin>
+      </Label>
+      <TextField fx:id="tfprice" maxWidth="-Infinity" prefHeight="26.0" prefWidth="84.0">
+         <StackPane.margin>
+            <Insets bottom="270.0" right="175.0" />
+         </StackPane.margin>
+      </TextField>
+      <Label style="-fx-text-fill: #E9BC2B;" text="Category">
+         <StackPane.margin>
+            <Insets bottom="520.0" right="190.0" />
+         </StackPane.margin>
+      </Label>
+      <ComboBox fx:id="cbcategory" prefHeight="26.0" prefWidth="129.0" style="-fx-background-color: #E9BC2B, linear-gradient(#FFFF00, #868A08);">
+       <items>
+           <FXCollections fx:factory="observableArrayList">
+               <String fx:value="Alkoholfreies Getranke" />
+               <String fx:value="Heisse Getranke" />
+               <String fx:value="Alkoholisches Getranke" />
+               <String fx:value="Vorspeise" />
+               <String fx:value="Hauptgericht" />
+               <String fx:value="Dessert" />
+           </FXCollections>
+       </items>
+         <StackPane.margin>
+            <Insets bottom="470.0" right="125.0" />
+         </StackPane.margin>
+      </ComboBox>
+      <Label style="-fx-text-fill: #E9BC2B;" text="Taxclass">
+         <StackPane.margin>
+            <Insets bottom="415.0" right="195.0" />
+         </StackPane.margin>
+      </Label>
+      <ComboBox fx:id="cbtaxclass" prefHeight="26.0" prefWidth="129.0" style="-fx-background-color: #E9BC2B, linear-gradient(#FFFF00, #868A08);">
+       <items>
+           <FXCollections fx:factory="observableArrayList">
+               <String fx:value="10% Ermäßigt" />
+               <String fx:value="20% Normal" />
+           </FXCollections>
+       </items>
+         <StackPane.margin>
+            <Insets bottom="370.0" right="125.0" />
+         </StackPane.margin>
+      </ComboBox>
+      <Button mnemonicParsing="false" onAction="#onNewProductClickEvent" prefHeight="36.0" prefWidth="120.0" style="-fx-background-color: #E9BC2B, linear-gradient(#FFFF00, #868A08); -fx-background-radius: 10;" text="New Product">
+         <StackPane.margin>
+            <Insets bottom="300.0" left="250.0" />
+         </StackPane.margin>
+      </Button>
+      <Button mnemonicParsing="false" onAction="#onDeleteClickEvent" style="-fx-background-color: #E9BC2B, linear-gradient(#FFFF00, #868A08); -fx-background-radius: 10;" text="Delete Product">
+         <StackPane.margin>
+            <Insets bottom="130.0" left="140.0" />
+         </StackPane.margin>
+      </Button>
+      <Button mnemonicParsing="false" onAction="#onBackClickEvent" prefHeight="26.0" prefWidth="50.0" style="-fx-background-color: #E9BC2B, linear-gradient(#FFFF00, #868A08); -fx-background-radius: 10;" text="Back">
+         <StackPane.margin>
+            <Insets bottom="500.0" left="550.0" />
+         </StackPane.margin>
+      </Button>
+      <Button mnemonicParsing="false" onAction="#onAddtoOrderClickEvent" style="-fx-background-color: #E9BC2B, linear-gradient(#FFFF00, #868A08); -fx-background-radius: 10;" text="Add to Order">
+         <StackPane.margin>
+            <Insets bottom="130.0" right="180.0" />
+         </StackPane.margin>
+      </Button>
+      <Button mnemonicParsing="false" onAction="#onDetailedViewClickEvent" style="-fx-background-color: #E9BC2B, linear-gradient(#FFFF00, #868A08); -fx-background-radius: 10;" text="Detailed View">
+         <StackPane.margin>
+            <Insets bottom="130.0" left="450.0" />
+         </StackPane.margin>
+      </Button>
+      <Button mnemonicParsing="false" onAction="#onSearchClickEvent" prefHeight="36.0" prefWidth="120.0" style="-fx-background-color: #E9BC2B, linear-gradient(#FFFF00, #868A08); -fx-background-radius: 10;" text="Search">
+         <StackPane.margin>
+            <Insets bottom="500.0" left="250.0" />
+         </StackPane.margin>
+      </Button>
+      <Button mnemonicParsing="false" onAction="#displayProducts" prefHeight="26.0" prefWidth="95.0" style="-fx-background-color: #E9BC2B, linear-gradient(#FFFF00, #868A08); -fx-background-radius: 10;" text="Show All">
+         <StackPane.margin>
+            <Insets bottom="130.0" right="500.0" />
+         </StackPane.margin>
+      </Button>
+      <Button mnemonicParsing="false" onAction="#onUpdateProductClickEvent" prefHeight="36.0" prefWidth="120.0" style="-fx-background-color: #E9BC2B, linear-gradient(#FFFF00, #868A08); -fx-background-radius: 10;" text="Update Product">
+         <StackPane.margin>
+            <Insets bottom="400.0" left="250.0" />
+         </StackPane.margin>
+      </Button>
+   </children>
+</StackPane>

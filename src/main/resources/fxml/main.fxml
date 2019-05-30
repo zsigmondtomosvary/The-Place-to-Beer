@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox prefHeight="600.0" prefWidth="800.0" xmlns:fx="http://javafx.com/fxml" fx:controller="at.ac.tuwien.sepm.assignment.individual.application.MainController">
+    <children>
+        <StackPane fx:id="sceneHolder" VBox.vgrow="ALWAYS" />
+    </children>
+</VBox>
+

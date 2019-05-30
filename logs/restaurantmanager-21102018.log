@@ -1,0 +1,8 @@
+16:26:25.555 [main] DEBUG a.a.t.s.a.i.a.MainApplication - Application starting with arguments=[]
+16:26:26.262 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+16:26:26.975 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application startup complete
+16:26:33.951 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+16:26:34.247 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+16:26:36.286 [JavaFX Application Thread] INFO  a.a.t.s.a.i.application.ConnectDb - Get Connection to Database
+16:26:36.311 [JavaFX Application Thread] INFO  a.a.t.s.a.i.a.MainController - Set Main Scene
+16:26:39.142 [JavaFX Application Thread] DEBUG a.a.t.s.a.i.a.MainApplication - Application shutdown initiated

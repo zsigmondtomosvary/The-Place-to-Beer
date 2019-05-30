@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+
+<StackPane prefHeight="500.0" prefWidth="450.0" style="-fx-background-color: #115212;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="at.ac.tuwien.sepm.assignment.individual.restaurant.controller.DetailInvoicecontroller">
+   <children>
+      <TextArea fx:id="tftaxsum" editable="false" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="61.0" prefWidth="171.0">
+         <StackPane.margin>
+            <Insets right="250.0" top="350.0" />
+         </StackPane.margin></TextArea>
+      <TextArea fx:id="tfproducts" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="335.0" prefWidth="200.0">
+         <StackPane.margin>
+            <Insets left="200.0" top="65.0" />
+         </StackPane.margin></TextArea>
+      <Label style="-fx-text-fill: #E8BB2A;" text="Detailed Invoice">
+         <font>
+            <Font size="25.0" />
+         </font>
+         <StackPane.margin>
+            <Insets bottom="430.0" right="200.0" />
+         </StackPane.margin>
+      </Label>
+      <Label style="-fx-text-fill: #E8BB2A;" text="Invoicenr">
+         <StackPane.margin>
+            <Insets bottom="290.0" right="350.0" />
+         </StackPane.margin></Label>
+      <TextField fx:id="tfid" editable="false" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="26.0" prefWidth="60.0">
+         <StackPane.margin>
+            <Insets bottom="240.0" right="350.0" />
+         </StackPane.margin></TextField>
+      <Label style="-fx-text-fill: #E8BB2A;" text="Tablenr">
+         <StackPane.margin>
+            <Insets bottom="290.0" right="180.0" />
+         </StackPane.margin></Label>
+      <TextField fx:id="tftablenr" editable="false" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="26.0" prefWidth="60.0">
+         <StackPane.margin>
+            <Insets bottom="240.0" right="170.0" />
+         </StackPane.margin></TextField>
+      <Label style="-fx-text-fill: #E8BB2A;" text="Added Date">
+         <StackPane.margin>
+            <Insets bottom="170.0" right="340.0" />
+         </StackPane.margin></Label>
+      <Label style="-fx-text-fill: #E8BB2A;" text="Paid Date">
+         <StackPane.margin>
+            <Insets bottom="60.0" right="350.0" />
+         </StackPane.margin></Label>
+      <Label style="-fx-text-fill: #E8BB2A;" text="Sum">
+         <StackPane.margin>
+            <Insets right="380.0" top="40.0" />
+         </StackPane.margin></Label>
+      <Label style="-fx-text-fill: #E8BB2A;" text="Payment">
+         <StackPane.margin>
+            <Insets right="360.0" top="150.0" />
+         </StackPane.margin></Label>
+      <Label style="-fx-text-fill: #E8BB2A;" text="Tax Sum">
+         <StackPane.margin>
+            <Insets right="360.0" top="265.0" />
+         </StackPane.margin></Label>
+      <TextField fx:id="tfaddeddate" editable="false" maxWidth="-Infinity" prefHeight="30.0" prefWidth="139.0">
+         <StackPane.margin>
+            <Insets bottom="115.0" right="275.0" />
+         </StackPane.margin></TextField>
+      <TextField fx:id="tfpaiddate" editable="false" maxWidth="-Infinity" prefHeight="30.0" prefWidth="139.0">
+         <StackPane.margin>
+            <Insets bottom="10.0" right="275.0" />
+         </StackPane.margin></TextField>
+      <TextField fx:id="tfsum" editable="false" maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="26.0" prefWidth="127.0">
+         <StackPane.margin>
+            <Insets right="290.0" top="200.0" />
+         </StackPane.margin></TextField>
+      <TextField fx:id="tfpayment" editable="false" maxWidth="-Infinity" prefHeight="26.0" prefWidth="50.0">
+         <StackPane.margin>
+            <Insets right="365.0" top="90.0" />
+         </StackPane.margin></TextField>
+      <Label style="-fx-text-fill: #E8BB2A;" text="Products">
+         <StackPane.margin>
+            <Insets bottom="290.0" left="60.0" />
+         </StackPane.margin></Label>
+      <Button mnemonicParsing="false" onAction="#onBackClickEvent" prefHeight="26.0" prefWidth="127.0" style="-fx-background-color: #E9BC2B, linear-gradient(#FFFF00, #868A08); -fx-background-radius: 10;" text="Back">
+         <StackPane.margin>
+            <Insets bottom="400.0" left="250.0" />
+         </StackPane.margin>
+      </Button>
+   </children>
+</StackPane>
