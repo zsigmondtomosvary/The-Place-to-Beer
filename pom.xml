@@ -19,7 +19,7 @@
         <!-- runtime dependencies -->
         <logback.version>1.2.3</logback.version>
         <!-- test dependencies -->
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <!-- plugins -->
         <maven-surefire-plugin.version>2.22.0</maven-surefire-plugin.version>
         <!--database dependencies-->
