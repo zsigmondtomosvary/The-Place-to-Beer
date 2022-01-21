@@ -23,7 +23,7 @@
         <!-- plugins -->
         <maven-surefire-plugin.version>2.22.0</maven-surefire-plugin.version>
         <!--database dependencies-->
-        <h2.version>1.4.195</h2.version>
+        <h2.version>2.1.210</h2.version>
     </properties>
 
     <dependencies>
